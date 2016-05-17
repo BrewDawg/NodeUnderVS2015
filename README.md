@@ -1,4 +1,4 @@
-#Node Under Visual Studio 2015
+#Node.js Under Visual Studio 2015
 
 Installation
 ----------------------
