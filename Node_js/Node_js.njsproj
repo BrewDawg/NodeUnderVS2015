@@ -34,12 +34,13 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
+    <Content Include="README.md" />
     <Content Include="views\index.vash" />
     <Content Include="views\layout.vash" />
     <TypeScriptCompile Include="controllers\homeController.ts" />
     <TypeScriptCompile Include="server.ts" />
     <Content Include="package.json" />
-    <Content Include="README.md" />
     <TypeScriptCompile Include="typings\main.d.ts" />
     <TypeScriptCompile Include="typings\main\ambient\body-parser\index.d.ts" />
     <TypeScriptCompile Include="typings\main\ambient\express-serve-static-core\index.d.ts" />
