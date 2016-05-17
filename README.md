@@ -4,6 +4,7 @@ Installation
 ----------------------
 * [Node.js] (https://nodejs.org/en/)
 * [TypeScript] (https://www.typescriptlang.org/index.html#download-links)
+* [Visual Studio Code] (https://code.visualstudio.com/)
 
 Visual Studio - Extensions and Updates
 --------------------------
