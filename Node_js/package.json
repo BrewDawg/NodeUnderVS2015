@@ -1,0 +1,15 @@
+{
+  "name": "node_js",
+  "version": "0.0.0",
+  "description": "Node_js",
+  "main": "app.js",
+  "author": {
+    "name": "Mike Griffin",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "vash": "^0.11.3"
+  }
+}
