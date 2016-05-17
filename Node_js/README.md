@@ -3,4 +3,5 @@
 Installation
 ----------------------
 [Node.js] (https://nodejs.org/en/)
+[TypeScript] (https://www.typescriptlang.org/index.html#download-links)
 
