@@ -1,4 +1,3 @@
-/// <reference path="typings/main.d.ts" />
 "use strict";
 var express = require("express");
 var app = express();
@@ -9,7 +8,4 @@ app.get("/", function (req, res) {
 });
 var server = app.listen(1337);
 var i = 9;
-//var server = http.createServer(express);
-//server.listen(1337);
-//module.exports = router;
 //# sourceMappingURL=server.js.map
