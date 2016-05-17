@@ -13,4 +13,11 @@ Visual Studio - Extensions and Updates
  
 Command Line Operations
 --------------------------
-* npm typings install -g
+* npm install typscript --save
+
+* typings install body-parser --ambient --save
+* typings install express --ambient --save
+* typings install node --ambient --save
+* typings install serve-static --ambient --save
+* typings install express-serve-static-core --ambient --save
+* typings install mime --ambient --save
