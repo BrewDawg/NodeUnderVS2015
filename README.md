@@ -10,5 +10,7 @@ Visual Studio - Extensions and Updates
 * Github Extension for Visual Studio
 * Web Essentials 2015.2
 * Node.js Tools 1.1 for Visual Studio
-
+ 
+Command Line Operations
+--------------------------
 * npm typings install -g
