@@ -4,5 +4,3 @@
 
 *.suo
 /Node_js/obj/Debug
-/Node_js/bin/Microsoft.NodejsTools.WebRole.dll
-/Node_js/.ntvs_analysis.dat

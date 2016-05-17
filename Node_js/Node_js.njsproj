@@ -36,6 +36,7 @@
   <ItemGroup>
     <Content Include=".gitignore" />
     <Content Include="README.md" />
+    <Content Include="typings.json" />
     <Content Include="views\index.vash" />
     <Content Include="views\layout.vash" />
     <TypeScriptCompile Include="controllers\homeController.ts" />
