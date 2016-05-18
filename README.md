@@ -4,6 +4,7 @@ Installation
 ----------------------
 * [Node.js] (https://nodejs.org/en/)
 * [TypeScript] (https://www.typescriptlang.org/index.html#download-links)
+* [Get Node.js Tools for Visual Studio] (https://www.visualstudio.com/en-us/features/node-js-vs.aspx)
 * [Visual Studio Code] (https://code.visualstudio.com/)
 
 Visual Studio - Extensions and Updates
@@ -21,5 +22,3 @@ Command Line Operations
 * typings install serve-static --ambient --save
 * typings install express-serve-static-core --ambient --save
 * typings install mime --ambient --save
-* 
-wow
